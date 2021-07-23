@@ -15,21 +15,21 @@ function mainMenu() {
       name: "menu",
       message: "MAIN MENU",
       choices: [
-        "Work with Employees",
-        "Work with Positions",
-        "Work with Departments",
+        "Employees",
+        "Positions",
+        "Departments",
         "Exit",
       ],
     })
     .then(function (answer) {
       switch (answer.menu) {
-        case "Work with Employees":
+        case "Employees":
           employeePrompt();
           break;
-        case "Work with Positions":
+        case "Positions":
           rolePrompt();
           break;
-        case "Work with Departments":
+        case "Departments":
           deptPrompt();
           break;
         default:

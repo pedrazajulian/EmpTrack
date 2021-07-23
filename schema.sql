@@ -31,8 +31,8 @@ CREATE TABLE employee (
     PRIMARY KEY (id)
 );
 
-INSERT INTO departments (dept_name) VALUES ("Management"), ("HR"), ("Production");
+INSERT INTO departments (dept_name) VALUES ("Management"), ("HR"), ("Production"), ("P Mayhem");
 
-INSERT INTO roles (title, salary, dept_id) VALUES ("Manager", 650000, 1), ("HR REP", 100000, 2), ("Software Engineer", 100000, 3);
+INSERT INTO roles (title, salary, dept_id) VALUES ("Manager", 650000, 1), ("Project Manager", 700000, 2), ("Soap Specialist", 500000, 3), ("Project Developer", 20000, 4);
 
-INSERT INTO employee (first_name, last_name, role_id, man_id) VALUES ("Julian", "Pedraza", 1, NULL), ("David", "Pedraza", 2, 1), ("Tyler", "Durden", 3, 1);
+INSERT INTO employee (first_name, last_name, role_id, man_id) VALUES ("Julian", "Pedraza", 1, NULL), ("Robert", "Paulson", 2, 1), ("Tyler", "Durden", 3, 1), ("Marla", "singer", 4, 1);
