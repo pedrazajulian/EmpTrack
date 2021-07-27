@@ -2,6 +2,9 @@
 employee tracking system HW 12: Employee Management System
 
   ![Github License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+ <img src= https://github.com/pedrazajulian/EmpTrack/blob/main/Capture.PNG>
   
 
   ## Description
