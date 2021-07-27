@@ -48,11 +48,11 @@ employee tracking system HW 12: Employee Management System
   
  ## VIDEO 
   
-  [Video Link](https://drive.google.com/file/d/1WN455SV3qYWrClW3syn4TsdBOQu4T0Ic/view?usp=sharing)
+  [Video Link](https://drive.google.com/file/d/1OUArf6ya36kIZzDkYlsK41v-3QmS-B2N/view)
 
   ## ✋ Questions 
-  Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/Team_profile_gen).
+  Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/EmpTrack).
 
-  ![demo](https://media.giphy.com/media/av4FTQT6sTgSAxmzan/giphy.gif)
+  ![demo](https://drive.google.com/file/d/1OUArf6ya36kIZzDkYlsK41v-3QmS-B2N/view)
 
-  [TEAM PROFILE LINK](https://pedrazajulian.github.io/Team_profile_gen/)
+  [EMPTRACK LINK](https://pedrazajulian.github.io/EmpTrack/)
