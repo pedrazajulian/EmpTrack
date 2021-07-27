@@ -53,6 +53,6 @@ employee tracking system HW 12: Employee Management System
   ## ✋ Questions 
   Any questions? Contact pedrazajulian@hotmail.com. Access more of my work at [pedrazajulian](https://github.com/pedrazajulian/EmpTrack).
 
-  ![demo](https://drive.google.com/file/d/1OUArf6ya36kIZzDkYlsK41v-3QmS-B2N/view)
+  [Video](https://drive.google.com/file/d/1OUArf6ya36kIZzDkYlsK41v-3QmS-B2N/view)
 
   [EMPTRACK LINK](https://pedrazajulian.github.io/EmpTrack/)
